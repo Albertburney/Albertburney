@@ -1,6 +1,6 @@
 Hi, I'm Tushar Albert Burney! 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer and technology enthusiast, Lucknow. I love exploring new tech and bringing creative ideas to life through clean, efficient code.
+Welcome to my GitHub profile! I'm a passionate web developer and technology enthusiast,I love exploring new tech and bringing creative ideas to life through clean, efficient code.
 
 About Me 🌟
 > 🖥️ Web Development: Experienced in creating responsive, user-friendly websites.

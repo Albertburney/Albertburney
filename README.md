@@ -1,9 +1,7 @@
 # Hey there Albert here !!👋
 
-![Android Banner](https://via.placeholder.com/800x200.png?text=Hello+World!)
-
-Visitor count: 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![image](https://github.com/user-attachments/assets/642d6475-2948-49c8-9442-3c046cc99002)
+![Android Banner]([https://via.placeholder.com/800x200.png?text=Hello+World!](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png))
 
 ## About me
 

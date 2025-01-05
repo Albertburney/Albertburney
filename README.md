@@ -17,10 +17,8 @@ Hi there 👋, I'm Albert. You can call me Ghost. I'm currently working on some 
 
 ---
 
-## Skills & 
-
-- **Languages**:
-- Java,
+## **Languages**
+- Java
 - Python
 - C#
 - Js ( Java Script )

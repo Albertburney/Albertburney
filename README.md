@@ -4,16 +4,16 @@
 
 ## About me
 
-Hi there 👋, I'm [Your Name], a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9-to-5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community has inspired me to pursue innovation and collaboration. If I'm not crafting apps or libraries, then I'm probably wondering about the universe's existence.
+Hi there 👋, I'm Albert. You can call me Ghost. I'm currently working on some public and private projects spread across various frameworks and languages. I’m still learning, trying out new approaches, and improving every step of the way.Yes, I’m from India, and I’ve had a passion for computer hardware and software from a very young age. Networking is also on my bucket list.If you want to reach out to me, you can contact me through Discord for now. I’m looking forward to new opportunities and challenges, and I always try to resolve them in the best way possible. Every line of code gives me a unique feeling and helps me explore this virtual world further.
 
 ---
 
 ## Get in touch 🤝
 
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: youremail@example.com
+- **Website** : 
+- **Discord** : ghost_09x
+- **LinkedIn**:
+- **Email**   : geekysamz@gmail.com
 
 ---
 

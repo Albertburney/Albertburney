@@ -1,22 +1,36 @@
-# Hi, I'm Tushar Albert Burney! 👋
+# Hey there Albert here !!👋
+
+![Android Banner](https://via.placeholder.com/800x200.png?text=Hello+World!)
+
+Visitor count: 
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
+
+## About me
+
+Hi there 👋, I'm [Your Name], a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9-to-5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community has inspired me to pursue innovation and collaboration. If I'm not crafting apps or libraries, then I'm probably wondering about the universe's existence.
 
 ---
 
-## Welcome to my GitHub profile! I'm a passionate web developer and technology enthusiast,I love exploring new tech and bringing creative ideas to life through clean, efficient code.
+## Get in touch 🤝
 
-About Me 🌟
-• 🖥️ Web Development: Experienced in creating responsive, user-friendly websites.
-• 🔒 Pentesting: Learning Linux-based pentesting to deepen my understanding of cybersecurity.
-• 🌐 Languages: Proficient in HTML, CSS, JavaScript, Python, C#, Java, and C++.
-• 🤝 Collaboration: Open to teaming up on exciting projects.
+- **Website**: [yourwebsite.com](https://yourwebsite.com)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: youremail@example.com
 
-Geekyz Inc 🚀
-All my projects are housed under Geekyz Inc, where creativity meets technology. From fun experiments to meaningful solutions, you'll find everything here!
+---
 
-Let’s Connect
+## Skills & 
 
-Insta - geeky.inc
-Discord - ghost_09x
+- **Languages**:
+- Java,
+- Python
+- C#
+- Js ( Java Script )
+  
+---
 
+## Support
 
-Feel free to check out my repositories and reach out if you'd like to collaborate or chat about tech!
+If you like what I do, feel free to ⭐️ my repositories or buy me a coffee! 
+

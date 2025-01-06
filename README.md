@@ -1,6 +1,6 @@
 # Hey Albert here !!👋
 
-![image]((https://github-production-user-asset-6210df.s3.amazonaws.com/163653913/400208766-642d6475-2948-49c8-9442-3c046cc99002.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250106T110718Z&X-Amz-Expires=300&X-Amz-Signature=0c40855bae5a85709b905530d4889f09f963f7cff960bd862d06aee6a8d363ce&X-Amz-SignedHeaders=host)](https://github-production-user-asset-6210df.s3.amazonaws.com/163653913/400208766-642d6475-2948-49c8-9442-3c046cc99002.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250106T110718Z&X-Amz-Expires=300&X-Amz-Signature=0c40855bae5a85709b905530d4889f09f963f7cff960bd862d06aee6a8d363ce&X-Amz-SignedHeaders=host))
+---
 
 ## About me
 
